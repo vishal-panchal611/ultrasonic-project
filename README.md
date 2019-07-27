@@ -1,4 +1,4 @@
-#smart street lights 
+#smart-street-lights 
 
 This project is made by using 2 ultrasonic sensor and a single arduino board..
 The main purpose behind the project was to lit up the LEDS(street lights) only when the sensor gets them in the specifed range..
